@@ -1,3 +1,5 @@
+#include <Mouse.h>
+
 
 const int joyStickX1 = A0;
 const int joyStickY1 = A1;
